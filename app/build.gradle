@@ -1,5 +1,4 @@
 
-
 plugins {
     id 'com.android.application'
 }
@@ -39,3 +38,6 @@ configurations.configureEach {
 dependencies {
     implementation 'androidx.activity:activity:1.9.3'
 }
+
+
+
